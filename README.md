@@ -1,5 +1,7 @@
 # WashME - Android App
 
 ### Tools
-- Framework: Jetpack Compose, Retrofit, Dagger Hilt
+- UI Framework: Jetpack Compose
+- HTTP Client: Retrofit
+- Dependency Injection: Dagger Hilt
 - Authentication: JWT
